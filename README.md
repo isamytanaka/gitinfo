@@ -1,5 +1,5 @@
 ## GitHub User API
-
+![](logotipo-do-github.png)
 > A simple API to retrieve GitHub user data in different formats: **JSON, HTML, or XML**.
 
 ## Installation
